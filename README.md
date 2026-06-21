@@ -1,6 +1,6 @@
 # ESG 등급 NLP 분석 (ESG Rating NLP Analysis)
 
-비정형 데이터 처리 수업 텀프로젝트 — DART 사업보고서 텍스트를 기반으로 ESG 등급을 분석합니다.
+DART 사업보고서 텍스트를 기반으로 ESG 등급을 분석합니다.
 
 ---
 
